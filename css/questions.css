@@ -1,0 +1,25 @@
+/*
+    Q1 - Write a media query for desktop first.  The break point needs to be at 960px;
+*/
+ @media screen and (max-width:960px){
+
+ }
+
+/*
+    Q2 - Write a media query for mobile first.  The break point needs to be at 720px;
+*/
+  @media screen and (min-width:720px){
+
+  }
+
+/*
+    Q3 - What CSS property are you having the most trouble figuring out?
+*/
+   Floats, because the are a little bit unpreddictable and sometimes they can affect the layout
+   of the page
+
+/*
+    Q4 - What is the best CSS property and why?
+*/
+    I really like the transform property, because to me it makes the application more interactive,
+    more playful in a way that can get the user hooked to the application.
